@@ -1,7 +1,7 @@
 {
   "default": {
     "Name": "That 1 Painter",
-    "Owner Name": "Test",
+    "Owner Name": null,
     "Phone": null,
     "Working Days": null,
     "Working Hours": null,
